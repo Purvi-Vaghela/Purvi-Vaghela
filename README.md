@@ -1,7 +1,7 @@
 <h2 align="center">Hi👋! My name is Purvi Vaghela</h2>
 <h3 align="center">An enthusiastic CSE grad with keen interest in Data Structures and Algorithms, Full Stack Development </h3>
 
-🔭 I’m currently working on **Full Stack Projects**
+🔭 I’m currently working on **Full Stack Projects with MERN Stack**
 
 🌱 I’m currently exploring **Flutter and Django**
 
