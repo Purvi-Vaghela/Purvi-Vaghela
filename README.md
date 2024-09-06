@@ -8,7 +8,7 @@
 📫 Send me an email on **purvi09v@gmail.com**
 
 📄 Check out my [**resume**](
-https://drive.google.com/file/d/1CzTb3Aeojq2k7HYDCEy-LktTL5ut12Dh/view?usp=sharing)
+https://drive.google.com/file/d/1KoQ_68l79VVsJk9Qhr7t52NZdBsWxHRJ/view?usp=sharing)
 
 ###
 
