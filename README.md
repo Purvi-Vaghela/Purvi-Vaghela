@@ -1,4 +1,3 @@
-<h2 align="center">Hi👋! My name is Purvi Vaghela</h2>
 <h3 align="center">An enthusiastic CSE grad with keen interest in Data Structures and Algorithms, Full Stack Development </h3>
 
 🔭 Crafting seamless user experiences with the **MERN Stack**
@@ -14,9 +13,9 @@ https://drive.google.com/file/d/1rMYjdDhyGxSx8P0iY0AkMPxP2XPdkxAA/view?usp=shari
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Purvi-Vaghela.Purvi-Vaghela" alt="visitor badge"/>
 </div>
 
- <p align="left"> 
+<p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Purvi-Vaghela" />
+  <img src="https://profile-counter.glitch.me/Purvi-Vaghela/count.svg" />
 </p>
 
 ###
