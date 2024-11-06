@@ -9,9 +9,6 @@
 📄 Check out my [**resume**](
 https://drive.google.com/file/d/1rMYjdDhyGxSx8P0iY0AkMPxP2XPdkxAA/view?usp=sharing)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Purvi-Vaghela.Purvi-Vaghela" alt="visitor badge"/>
-</div>
 
 <p align="left"> 
   Visitor count<br>
