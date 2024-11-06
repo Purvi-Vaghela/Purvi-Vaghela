@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1rMYjdDhyGxSx8P0iY0AkMPxP2XPdkxAA/view?usp=shari
 
  <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Purvi-Vaghela/count.svg" />
+  <img src="https://profile-counter.glitch.me/Purvi-Vaghela" />
 </p>
 
 ###
