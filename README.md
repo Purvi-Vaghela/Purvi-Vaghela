@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **Flutter and Django**
 
-📫 Send me an email on **purvi09v@gmail.com**
+📫 Send me an email on **purvi9799@gmail.com**
 
 📄 Check out my [**resume**](
 https://drive.google.com/file/d/1e9V2TQKNecmGOjYYm4u94uSWo8uPUism/view?usp=sharing)
