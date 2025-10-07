@@ -7,13 +7,13 @@
 📫 Send me an email on **purvi09v@gmail.com**
 
 📄 Check out my [**resume**](
-https://drive.google.com/file/d/1rMYjdDhyGxSx8P0iY0AkMPxP2XPdkxAA/view?usp=sharing)
+https://drive.google.com/file/d/1e9V2TQKNecmGOjYYm4u94uSWo8uPUism/view?usp=sharing)
 
 
-<p align="left"> 
+<!-- <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Purvi-Vaghela/count.svg" />
-</p>
+</p> -->
 
 ###
 
