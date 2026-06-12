@@ -7,7 +7,7 @@
 📫 Send me an email on **purvi9799@gmail.com**
 
 📄 Check out my [**resume**](
-https://drive.google.com/file/d/1SpNgapZj55YR32hSwRt9hSuzVK06BZwg/view?usp=sharing)
+https://drive.google.com/file/d/1X17OUzY4eMlMlVTQl32w8-Pa3Bcn6iBD/view?usp=sharing)
 
 <!-- <p align="left"> 
   Visitor count<br>
